@@ -10,9 +10,11 @@ Estudiante de Ingenieria de sistemas de la Escuela Colombiana de Ingenieria
 
 Vivo con mis papas, me gusta pasar tiempo con mi familia y mis amigos
 
-### ¿Donde termine mi bachillerato?
+## ¿Donde termine mi bachillerato?
 
 En el 2018 termine mi bachillerato en el Colegio Agustiniano Norte, estuve alli desde que tenia 5 años
+Actualmente en la universidad conservo amistades que tuve en el colegio, ya sea porque estudian conmigo
+o porque continuo en contacto con ellos
 
 ## Hobbies
 
